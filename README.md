@@ -8,3 +8,12 @@ Switches offer a different method of activating or controlling different devices
 Finding the right accessible switch can be difficult and expensive, especially if you don’t even know they exist or aren’t sure where to start. We know that not everyone has the same budget, tools, or technical skills to make one even if they wanted to. Our goal is to spread awareness about accessible switches and provide reliable DIY options for different needs.
 
 Whether you're looking to learn more about switches, find where to buy them, or explore more affordable alternatives, we’ve got you covered. If you need a simple build with household materials, something that requires 3D printing and soldering, or a switch that fits specific mobility needs, we want to make sure there’s an option for you. We’ve researched and tested various switches to help you find what works best for your budget, experience level, and accessibility needs, all in one place.
+
+## Types of switches
+
+* [Button switches](switches/button.md)
+* [Sip and puff switches](switches/sip-puff.md)
+* [Pressure switches](switches/pressure.md)
+* [Proximity switches](switches/proximity.md)
+* [Tilt switches](switches/tilt.md)
+* [Other switches](switches/other.md)

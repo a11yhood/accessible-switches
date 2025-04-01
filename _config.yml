@@ -1,5 +1,14 @@
+baseurl: accessible-switches
+description: A collection of accessible switch technology
+email: caos@googlegroups.com
+github_username: a11yhood
+plugins:
+- jekyll-feed
+- jekyll-octicons
+- jekyll-readme-index
+readme_index:
+  enabled: true
+  with_frontmatter: true
+theme: minima
 title: Accessible switches
-description: >- # this means to ignore newlines until "baseurl:"
-  A collection of accessible switch technology
-baseurl: "accessible-switches" # the subpath of your site, e.g. /blog
-url: "https://a11yhood.org/accessible-switches" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://a11yhood.org/accessible-switches

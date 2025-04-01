@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Accessible switches
 
 Accessible switches, or adaptive switches, are assistive technology devices that enable individuals with physical or cognitive impairments to interact with various electronic systems. These switches function as alternative input methods, replacing traditional interfaces like keyboards, touchscreens, or small buttons, and can activate actions easier to perform by the user. Users with conditions affecting motor control, including cerebral palsy, spinal cord injuries, muscular dystrophy, or many others, often rely on these switches to operate devices, thereby enhancing their independence and quality of life.   

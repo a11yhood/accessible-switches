@@ -1,0 +1,5 @@
+title: Accessible switches
+description: >- # this means to ignore newlines until "baseurl:"
+  A collection of accessible switch technology
+baseurl: "accessible-switches" # the subpath of your site, e.g. /blog
+url: "https://a11yhood.org/accessible-switches" # the base hostname & protocol for your site, e.g. http://example.com

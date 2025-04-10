@@ -2,7 +2,8 @@
 
 ## Purpose
 
-Button Switches are the most common type of accessible switch. 
+Button Switches are the most common type of accessible switch because they are easy to use, highly responsive, and versatile. They require direct physical contact to activate, making them ideal for users who have controlled hand or finger movement. They can also be placed in various locations, allowing users to potentially activate them with different parts of their bodies, such as their head, elbow, or foot, depending on their mobility needs.
+
 
 ## Purchasing and Price
 
@@ -25,6 +26,7 @@ Button Switches are the most common type of accessible switch.
 * Etsy [Adaptive Switch Button](https://www.etsy.com/listing/1611577478/adaptive-switch-button-for-adapted-toy-i?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_ps-b-toys_and_games&utm_custom1=_k_CjwKCAiAzPy8BhBoEiwAbnM9Oytz5a_Vm3Q5fblu_2eOs5PcMDj2LtoVN1Gn91NdSl0lNXRqJEvAEhoCT34QAvD_BwE_k_&utm_content=go_21791666331_169566861358_716586688968_pla-314535279060_c__1611577478_12768591&utm_custom2=21791666331&gad_source=1&gclid=CjwKCAiAzPy8BhBoEiwAbnM9Oytz5a_Vm3Q5fblu_2eOs5PcMDj2LtoVN1Gn91NdSl0lNXRqJEvAEhoCT34QAvD_BwE), $24  
 * Makers Making Change [Interact Switch](https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA)  
   * You can request a maker to make the adaptive switches for you. You would only need to pay for the materials required to build it.
+
 
 ## DIYs
 
@@ -51,6 +53,7 @@ Follow along on the [creator’s page](https://oneswitch.org.uk/page/diy-sanwa-a
 
 We still have to test it… Add pictures
 
+
 ### DIY 2: Jelly Bean Button
 
 #### Expertise Required
@@ -75,6 +78,7 @@ Follow along on the [creator’s page](https://imgur.com/a/diy-jelly-bean-switch
 This switch took us around 1 hour to make for the first time. One challenge we encountered was that the circuit board we used differed from the one in the original guide, which initially caused some confusion. However, by carefully examining the connections and adjusting our approach, we were able to troubleshoot and complete the build successfully. The result is functional and responsive that meets our expectations in terms of durability and performance. Below, figure 1 shows our DIY Jelly Bean Switch.
 
 ![Picture of the inside of a switch, a button switch with the cover removed. Includes an electrical board in the center with wires of different colors that were soldered to the board.][image1]
+
 
 ### DIY 3: 3D Printed Mini Button Switch
 

@@ -3,8 +3,7 @@
 ## Purpose
 
 Button Switches are the most common type of accessible switch because they are easy to use, highly responsive, and versatile. They require direct physical contact to activate, making them ideal for users who have controlled hand or finger movement. They can also be placed in various locations, allowing users to potentially activate them with different parts of their bodies, such as their head, elbow, or foot, depending on their mobility needs.
-
-
+<br>
 ## Purchasing and Price
 
 **Common button switches available on the market are:**
@@ -26,19 +25,15 @@ Button Switches are the most common type of accessible switch because they are e
 * Etsy [Adaptive Switch Button](https://www.etsy.com/listing/1611577478/adaptive-switch-button-for-adapted-toy-i?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_ps-b-toys_and_games&utm_custom1=_k_CjwKCAiAzPy8BhBoEiwAbnM9Oytz5a_Vm3Q5fblu_2eOs5PcMDj2LtoVN1Gn91NdSl0lNXRqJEvAEhoCT34QAvD_BwE_k_&utm_content=go_21791666331_169566861358_716586688968_pla-314535279060_c__1611577478_12768591&utm_custom2=21791666331&gad_source=1&gclid=CjwKCAiAzPy8BhBoEiwAbnM9Oytz5a_Vm3Q5fblu_2eOs5PcMDj2LtoVN1Gn91NdSl0lNXRqJEvAEhoCT34QAvD_BwE), $24  
 * Makers Making Change [Interact Switch](https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA)  
   * You can request a maker to make the adaptive switches for you. You would only need to pay for the materials required to build it.
-
-
+ 
+<br>
 ## DIYs
-
+<br>
 ### DIY 1: Sanwa Switch
-
 #### Expertise Required
-
 * Soldering  
 * Using a drill
-
 #### Materials Required
-
 *  [3.5mm Headphone Jack Socket](https://www.amazon.com/Ximimark-Socket-Stereo-Connector-Headphone/dp/B07MN1RK7F/ref=sr_1_3?crid=3M0MYRL5VU5XB&dib=eyJ2IjoiMSJ9.vHTCaUWhcRyo-1mErDbDPZxjFGboNRuJg1hGkOQ9upRq4rCDiw-Ftr73owLjhvaLrTsr_6G0cwll1VfknNPzPLjJ971_i2AYPXFH2pdiKDkRJHvcB2GwTbLHwZAqCJh4-xA-CprgICAyokhl-lhvEGqbaUcNb3eHXEtVpM2rveDr7sXo8mGg1pDaZFwd935oBDp8D_turK--YiXBhqM6wxc0V4zZ_mN8eNMmdahndFE.r-nxaezasiRMn31Xg0lxs4GSDx9RXcaq036ImzDi4lI&dib_tag=se&keywords=audio+jack+socket&qid=1738210740&sprefix=audo+jack+soket%2Caps%2C217&sr=8-3)  
 *  [Sanwa button (pack of 6\)](https://www.amazon.com/Original-Japan-Buttons-OBSF-30-Arcade/dp/B00IJRKSHQ/ref=sr_1_5?crid=1TJAYSY7R38M0&dib=eyJ2IjoiMSJ9.ls_kdZ9TMC-p7JhJZ5xl8IbpUN-6oBDezSPJj98cqkEjkt4mFn574F3T_bepDWdbnw0hyLB9bSl62N5GemPSdrHKfK5qeAl7NTRrOD_fjuf5OdWxXOJbpfoJVm-M1cgBLoh94WF90oBmjl9EgNNCJd3cTKzP0O82KI1cg7WaXkHudb2Qe1oK8LC9N8zqdDrcflA8imrpbPnugnRwJnd8mjUgRVdBcE1IkIOS3C0QpHA.1rHRQnWlPhjCb_zUnuvuqBXASrhcA1FRS1jjbg7r6Bk&dib_tag=se&keywords=sanwa+buttons&qid=1738211115&sprefix=sanwa+button%2Caps%2C188&sr=8-5)  
 *  [Casing 1](https://uk.farnell.com/hammond/1593kbk/case-abs-black-28x67-22x66-22mm/dp/930180) or [Casing 2](https://www.amazon.com/KIT-1593K-Box-Black-Plastic-PR1593K/dp/B00M2CLI8W/ref=sr_1_2?crid=2BP0LQDWQ8XD1&dib=eyJ2IjoiMSJ9.3RswQzKMgd4YoHlBrXR0OdmUQt-Y-r4KRpOnbHYC4XKNMNKxjg_sXoK70sBuGVxesYBWTMpTE42tP_jzJ1OEB81m7uha-c3y1KMHMA_iHxIzeWA8PMOvtY9XzFF4KgfPzdit8IQnl1w86nA_PMOL56wlSIfykFfw2D7Vn3xFxpWrirs_ONPrnVQuj3gRC0FCh2RlK5sPqUcYU2x9X0ReJs_gZHCyIB8ai5OS_aLMoLH2BusLiKpOOJ_tZqcil4wSjEhanCEKqJ5Trc9MfuENJn1N39jwK4kQzvFCijQHz94hqwjQ9Zo5_mi2JAnwBlQ78hT-i3vv5I3Iw3rvz07Ej60_ZWpVXewiAfuGBIPeJkZDntsTcTJFoB3ArtA1Hev_GIeg3KhJkFk-VrcxOazorSxak3oSYnKsVqhv9dC79TpfkIZeuF6WvCob8qcJeVzt.XZfdrY0VS6SG7ItUUU_m62-kekaM_4Qn7lrxl48X1aY&dib_tag=se&keywords=1593KBK+plastic+enclosure+box&qid=1738211021&sprefix=1593kbk+plastic+enclosure+box%2Caps%2C179&sr=8-2)  
@@ -46,14 +41,13 @@ Button Switches are the most common type of accessible switch because they are e
 *  Soldering tools; Soldering iron, solder wire, fan
 
 #### Instructions
-
-Follow along on the [creator’s page](https://oneswitch.org.uk/page/diy-sanwa-accessibility-switch)\!
+*  Follow along on the [creator’s page](https://oneswitch.org.uk/page/diy-sanwa-accessibility-switch)\!
 
 #### Results from our team’s recreation of DIY
 
 We still have to test it… Add pictures
 
-
+<br>
 ### DIY 2: Jelly Bean Button
 
 #### Expertise Required
@@ -71,7 +65,7 @@ We still have to test it… Add pictures
 
 #### Instructions
 
-Follow along on the [creator’s page](https://imgur.com/a/diy-jelly-bean-switches-bQzBx)\!
+*  Follow along on the [creator’s page](https://imgur.com/a/diy-jelly-bean-switches-bQzBx)\!
 
 #### Results from our team’s recreation of DIY
 
@@ -79,7 +73,7 @@ This switch took us around 1 hour to make for the first time. One challenge we e
 
 ![Picture of the inside of a switch, a button switch with the cover removed. Includes an electrical board in the center with wires of different colors that were soldered to the board.][image1]
 
-
+<br>
 ### DIY 3: 3D Printed Mini Button Switch
 
 #### Expertise Required
@@ -96,8 +90,8 @@ This switch took us around 1 hour to make for the first time. One challenge we e
 
 #### Instructions
 
-Follow along on the [creator’s video](https://www.youtube.com/watch?v=V0JpA9TjbxU)\!  
-Alternatively, people can buy the complete components through [this link](https://www.etsy.com/listing/1822992869/switch-kit-diy-3d-printed-switch-button?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=accessible+switches&ref=sr_gallery-1-8&sts=1&content_source=6888bc163d126fa479d3dc0c05f1c7d2c135ee95%253A1822992869&search_preloaded_img=1&organic_search_click=1) and assemble them on their own.
+*   Follow along on the [creator’s video](https://www.youtube.com/watch?v=V0JpA9TjbxU)\!  
+*   Alternatively, people can buy the complete components through [this link](https://www.etsy.com/listing/1822992869/switch-kit-diy-3d-printed-switch-button?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=accessible+switches&ref=sr_gallery-1-8&sts=1&content_source=6888bc163d126fa479d3dc0c05f1c7d2c135ee95%253A1822992869&search_preloaded_img=1&organic_search_click=1) and assemble them on their own.
 
 #### Results from our team’s recreation of the DIY
 

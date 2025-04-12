@@ -10,7 +10,7 @@ More information on [Husky Adapt](https://www.huskyadapt.me.uw.edu/)
 ## Open Doors for Multicultural families (ODMF) 
 ![image](https://github.com/user-attachments/assets/0b9b5883-9ec9-49fa-98b5-fc20489b3e76)
 ODMF is the community members that we are working with Husky Adapt to help build more affortable switches for minority kids in Washington schools who have disabilties. With the provided information that we present on building switches and affortable diy switches ODMF can be able to support families in getting acess to visit our website that we've created on reasearch on different switches and instructions on building switches.
-More information on [ODMF] (https://opendoorswa.org/)
+More information on [ODMF](https://opendoorswa.org/)
 
 ## Create 
 ![image](https://github.com/user-attachments/assets/3dbe7e55-f1f6-4bad-86d6-44825133e454)

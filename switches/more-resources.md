@@ -3,7 +3,7 @@
 We want you to encourage people to use some extra reasources for suppor on finding switches 
 
 ## Check your public libraries
-Lending library from [ODMF] (https://opendoorswa.org/) 
+Lending library from [ODMF](https://opendoorswa.org/) 
 
 ## Where to access spaces or tools:
 Makerspace, free/low cost 3d printing and other tools: https://makerspace.com/map/ use map to find locations near you

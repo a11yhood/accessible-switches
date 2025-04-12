@@ -1,12 +1,13 @@
-Sip and Puff Switch
-Purpose
+### Sip and Puff Switch
+# Purpose
 Sip and Puff switches are switches that help users activate devices through the action of sipping and puffing air through a tube. This switch is commonly used for individuals who have limited to no use of their upper extremities to control devices, such as those with spinal cord injuries and cerebral palsy. 
 Purchasing and Price
 Common Sip and Puff switches available on the market are:
 Ready-Made switches:
 Adaptive Tech Solutions, Sip & Puff Switch, $176.00
 Enabling Device, Sip & Puff Switch, $209.95 
-DIYs
+
+# DIYs
 DIY 1: Science Buddies
 Click a Button Without Your Hands: Design Puff Switch, $20-50
 Expertise Required
@@ -35,7 +36,7 @@ require prior technical expertise or high-tech materials, it shows that this alt
 affordable and easy to create, especially for those with little to no experience. Although the 
 the material used in the following figure is not of the highest quality, if made with care and with more sturdy material, the switch can last a good while if the straw is replaced to maintain proper sanitation protocols.
 
-(INSERT IMAGE HERE) 
+
 
 DIY 2: AUTODESK Instructables 
 Arduino Controlled SIP & PUFF Switch, $75-80

@@ -1,8 +1,9 @@
 # Other reasources 
-##  we want you to encourage people to use some extra reasources for suppor on finding switches 
+
+We want you to encourage people to use some extra reasources for suppor on finding switches 
 
 ## Check your public libraries
-Lending library from odmf, link odmf
+Lending library from [ODMF] (https://opendoorswa.org/) 
 
 ## Where to access spaces or tools:
 Makerspace, free/low cost 3d printing and other tools: https://makerspace.com/map/ use map to find locations near you

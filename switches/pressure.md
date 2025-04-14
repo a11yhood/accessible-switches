@@ -2,27 +2,25 @@
 
 ## Purpose
 
-The pressure plate is an assistive device designed to activate electronics through applied pressure. It is commonly used in adaptive gaming, communication devices, and mobility aids for individuals with disabilities. This switch enables users with limited motor abilities to interact with their environment more easily.
+The pressure plate is an assistive device designed to activate electronics through applied pressure. This switch enables users with limited motor abilities to interact with their environment more easily by pressing or stepping on the switch. This switch is much thinner and flatter than a button switch.
+<br>
 
 ## Purchasing and Price
 
 ### Ready-Made Switches
 
-Ready-made pressure plate switches are available from various retailers specializing in assistive technology. Prices vary depending on the brand, size, and sensitivity of the switch. On average, a commercially available pressure plate switch costs between $50 and $200.
+Prices vary depending on the brand, size, and sensitivity of the switch. On average, a commercially available pressure plate switch costs between $50 and $200, making it reliable and durable, but costly.
 
 Some well-known manufacturers of pressure plate switches include:
 
-* AbleNet  
-* Enabling Devices  
-* InclusiveTLC  
-* Adaptivation 
-
-
-These switches are reliable and durable but can be costly, making them less accessible for some individuals and families
+* Enabling Devices, [Plate Switch](https://enablingdevices.com/product/plate-switches/) ($59.95)  
+* Mealtime Partners, [Pal Pad](https://www.mealtimepartners.com/products/adaptive_switches/pal_pad_adaptive_switches.htm) ($80.95 \- $88.95)  
+* Adaptivation, [Flexible Switch](https://www.adaptivation.com/product-page/flexible-switch) ($79.00)
 
 ### Cheaper Alternatives
 
 A cost-effective alternative to commercial switches is creating a DIY pressure plate switch. By using affordable materials and simple assembly techniques, a similar functionality can be achieved at a fraction of the cost
+<br>
 
 ## DIYs
 
@@ -34,18 +32,18 @@ Anyone can make it\!
 
 #### Materials Required
 
-* Cardboard sheets  
-* Aluminum foil  
-* Tape  
-* Insulated with wires 
+* [Cardboard sheets](https://www.amazon.com/EcoSwift-Chipboard-Cardboard-Scrapbook-Scrapbooking/dp/B0B6GK2MFD/ref=asc_df_B0B6GK2MFD?mcid=db15e5499cd5328b9c94dcb369ca6398&hvocijid=16681825024313297778-B0B6GK2MFD-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=16681825024313297778&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033309&hvtargid=pla-2281435178298&psc=1) (10 pieces for $4.99)  
+* [Aluminum foil](https://www.amazon.com/Reynolds-Wrap-Aluminum-Foil-30/dp/B005GPJCHQ/ref=asc_df_B005GPJCHQ?mcid=1be5d1e83aff365aaed6b6de576238bf&hvocijid=2286951818579311677-B005GPJCHQ-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=2286951818579311677&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033309&hvtargid=pla-2281435175938&th=1) ($2.39)  
+* [Tape](https://www.fredmeyer.com/p/scotch-shipping-heavy-duty-packaging-tape/0005113164204?fulfillment=PICKUP&storecode=70100608&&cid=shp_adw_shopl_.FY25.01_search_ent_awar.all_allent.lia_corelia_fredmeyer.t2_g_lia_shop_all_na_lowperformers_all_rev_roas_sf_ma%23%23%23%23%23%23%23%23%23&gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KfJXpRuK1sanwUsI9e9NM3EzCEbgOAxjZx-zjakUpmUe5OVWXlLuuQaAngqEALw_wcB&gclsrc=aw.ds) ($3.29)  
+* [Insulated with wires](https://www.amazon.com/Silicone-Electrical-Flexible-Oxygen-Strands/dp/B0B9JCJMNP/ref=asc_df_B0B9JCJMNP?mcid=b9031100140e30cab33a455374d465de&hvocijid=3985749015197143122-B0B9JCJMNP-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=3985749015197143122&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033309&hvtargid=pla-2281435176458&th=1), 22 Gauge, ($5.19)
 
 #### Instructions
 
-Follow this website instructions for [DIY Pressure Plate](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/)
+* Follow this website instructions for [DIY Pressure Plate](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/)
 
 #### Results From Our Team’s Recreation
 
-Our team successfully built a working pressure plate switch using this method. The switch was responsive and functioned well. This was able to activate an LED; however, for higher durability, using sturdier materials such as acrylic sheets or 3D-printed parts is recommended. This DIY reduces costs while maintaining functionality, making it an accessible alternative for individuals needing assistive switches on a budget. Below, figure 4 shows our DIY pressure plate. 
+Our team successfully built a working pressure plate switch using this method. The switch was responsive and functioned well. This was able to activate an LED; however, for higher durability, using sturdier materials such as acrylic sheets or 3D-printed parts is recommended. This DIY reduces costs while maintaining functionality, making it an accessible alternative for individuals needing assistive switches on a budget. The size and shape is completely customizable. Below is our DIY pressure plate. 
 
 #### ![Pressure plate switch made out of cardboard, alluminum foil, and tape. The picture is taken from the side to see that there is no connection between the plates. In the background there is a small circuit with an LED that is OFF.][image1]![Pressure plate switch made out of cardboard, alluminum foil, and tape. The picture is taken from the side to see that there is no connection between the plates. In the background there is a small circuit with an LED that is OFF.][image2]
 

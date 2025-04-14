@@ -36,6 +36,7 @@ Button Switches are the most common type of accessible switch because they are e
 #### Expertise Required
 * Soldering  
 * Using a drill
+
 #### Materials Required
 *  [3.5mm Headphone Jack Socket](https://www.amazon.com/Ximimark-Socket-Stereo-Connector-Headphone/dp/B07MN1RK7F/ref=sr_1_3?crid=3M0MYRL5VU5XB&dib=eyJ2IjoiMSJ9.vHTCaUWhcRyo-1mErDbDPZxjFGboNRuJg1hGkOQ9upRq4rCDiw-Ftr73owLjhvaLrTsr_6G0cwll1VfknNPzPLjJ971_i2AYPXFH2pdiKDkRJHvcB2GwTbLHwZAqCJh4-xA-CprgICAyokhl-lhvEGqbaUcNb3eHXEtVpM2rveDr7sXo8mGg1pDaZFwd935oBDp8D_turK--YiXBhqM6wxc0V4zZ_mN8eNMmdahndFE.r-nxaezasiRMn31Xg0lxs4GSDx9RXcaq036ImzDi4lI&dib_tag=se&keywords=audio+jack+socket&qid=1738210740&sprefix=audo+jack+soket%2Caps%2C217&sr=8-3)  
 *  [Sanwa button (pack of 6\)](https://www.amazon.com/Original-Japan-Buttons-OBSF-30-Arcade/dp/B00IJRKSHQ/ref=sr_1_5?crid=1TJAYSY7R38M0&dib=eyJ2IjoiMSJ9.ls_kdZ9TMC-p7JhJZ5xl8IbpUN-6oBDezSPJj98cqkEjkt4mFn574F3T_bepDWdbnw0hyLB9bSl62N5GemPSdrHKfK5qeAl7NTRrOD_fjuf5OdWxXOJbpfoJVm-M1cgBLoh94WF90oBmjl9EgNNCJd3cTKzP0O82KI1cg7WaXkHudb2Qe1oK8LC9N8zqdDrcflA8imrpbPnugnRwJnd8mjUgRVdBcE1IkIOS3C0QpHA.1rHRQnWlPhjCb_zUnuvuqBXASrhcA1FRS1jjbg7r6Bk&dib_tag=se&keywords=sanwa+buttons&qid=1738211115&sprefix=sanwa+button%2Caps%2C188&sr=8-5)  

@@ -3,7 +3,9 @@
 ## Purpose
 
 Button Switches are the most common type of accessible switch because they are easy to use, highly responsive, and versatile. They require direct physical contact to activate, making them ideal for users who have controlled hand or finger movement. They can also be placed in various locations, allowing users to potentially activate them with different parts of their bodies, such as their head, elbow, or foot, depending on their mobility needs.
+
 <br>
+
 ## Purchasing and Price
 
 **Common button switches available on the market are:**
@@ -27,9 +29,10 @@ Button Switches are the most common type of accessible switch because they are e
   * You can request a maker to make the adaptive switches for you. You would only need to pay for the materials required to build it.
  
 <br>
+
 ## DIYs
-<br>
-### DIY 1: Sanwa Switch
+
+### **DIY 1: Sanwa Switch**
 #### Expertise Required
 * Soldering  
 * Using a drill
@@ -48,7 +51,8 @@ Button Switches are the most common type of accessible switch because they are e
 We still have to test it… Add pictures
 
 <br>
-### DIY 2: Jelly Bean Button
+
+### **DIY 2: Jelly Bean Button**
 
 #### Expertise Required
 
@@ -74,7 +78,8 @@ This switch took us around 1 hour to make for the first time. One challenge we e
 ![Picture of the inside of a switch, a button switch with the cover removed. Includes an electrical board in the center with wires of different colors that were soldered to the board.][image1]
 
 <br>
-### DIY 3: 3D Printed Mini Button Switch
+
+### **DIY 3: 3D Printed Mini Button Switch**
 
 #### Expertise Required
 

@@ -16,6 +16,7 @@ Some well-known manufacturers of pressure plate switches include:
 * Enabling Devices, [Plate Switch](https://enablingdevices.com/product/plate-switches/) ($59.95)  
 * Mealtime Partners, [Pal Pad](https://www.mealtimepartners.com/products/adaptive_switches/pal_pad_adaptive_switches.htm) ($80.95 \- $88.95)  
 * Adaptivation, [Flexible Switch](https://www.adaptivation.com/product-page/flexible-switch) ($79.00)
+* New Pressure Jawn, [Available on the internet](), Free Dollars
 
 ### Cheaper Alternatives
 

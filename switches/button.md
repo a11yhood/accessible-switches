@@ -18,13 +18,13 @@ Button Switches are the most common type of accessible switch because they are e
 ### Smaller button switches:
 
 *  AbleNet [Buddy Button](https://www.ablenetinc.com/buddy-button/), $75  
-*  Adaptabilities [Adaptive Accessibility Switch](https://adaptabilities.net/products/accessibility-switch-special-needs-therapy-assistive-technology-special-education-adaptive-switch-activation-switch?srsltid=AfmBOor4gNXa7UvaiTsZuYyHGElKhoyjD0Sxl0Mcs8XDqdPZZIUDoDpa), $40  
+*  Adaptabilities [Adaptive Accessibility Switch](https://shorturl.at/Iessx), $40  
 *  Enabling Devices [Compact Switches \- Set of 3](https://enablingdevices.com/product/compact-switches/), $78
 
 ### Cheaper alternatives:
 
-* Etsy \- Switched Shop [3D Printed Switch Button](https://www.etsy.com/listing/1778257240/3d-printed-switch-button-interchangable?click_key=c458bb5dd5fff7c9dc0ca3f3d8324a5199a35d8f%3A1778257240&click_sum=15cefc40&ref=shop_home_feat_1&sts=1), $20  
-* Etsy [Adaptive Switch Button](https://www.etsy.com/listing/1611577478/adaptive-switch-button-for-adapted-toy-i?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_ps-b-toys_and_games&utm_custom1=_k_CjwKCAiAzPy8BhBoEiwAbnM9Oytz5a_Vm3Q5fblu_2eOs5PcMDj2LtoVN1Gn91NdSl0lNXRqJEvAEhoCT34QAvD_BwE_k_&utm_content=go_21791666331_169566861358_716586688968_pla-314535279060_c__1611577478_12768591&utm_custom2=21791666331&gad_source=1&gclid=CjwKCAiAzPy8BhBoEiwAbnM9Oytz5a_Vm3Q5fblu_2eOs5PcMDj2LtoVN1Gn91NdSl0lNXRqJEvAEhoCT34QAvD_BwE), $24  
+* Etsy \- Switched Shop [3D Printed Switch Button](https://shorturl.at/2RldH), $20  
+* Etsy [Adaptive Switch Button](https://shorturl.at/DZI1T), $24  
 * Makers Making Change [Interact Switch](https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA)  
   * You can request a maker to make the adaptive switches for you. You would only need to pay for the materials required to build it.
  
@@ -38,8 +38,8 @@ Button Switches are the most common type of accessible switch because they are e
 * Using a drill
 
 #### Materials Required
-*  [3.5mm Headphone Jack Socket](https://www.amazon.com/Ximimark-Socket-Stereo-Connector-Headphone/dp/B07MN1RK7F/ref=sr_1_3?crid=3M0MYRL5VU5XB&dib=eyJ2IjoiMSJ9.vHTCaUWhcRyo-1mErDbDPZxjFGboNRuJg1hGkOQ9upRq4rCDiw-Ftr73owLjhvaLrTsr_6G0cwll1VfknNPzPLjJ971_i2AYPXFH2pdiKDkRJHvcB2GwTbLHwZAqCJh4-xA-CprgICAyokhl-lhvEGqbaUcNb3eHXEtVpM2rveDr7sXo8mGg1pDaZFwd935oBDp8D_turK--YiXBhqM6wxc0V4zZ_mN8eNMmdahndFE.r-nxaezasiRMn31Xg0lxs4GSDx9RXcaq036ImzDi4lI&dib_tag=se&keywords=audio+jack+socket&qid=1738210740&sprefix=audo+jack+soket%2Caps%2C217&sr=8-3)  
-*  [Sanwa button (pack of 6\)](https://www.amazon.com/Original-Japan-Buttons-OBSF-30-Arcade/dp/B00IJRKSHQ/ref=sr_1_5?crid=1TJAYSY7R38M0&dib=eyJ2IjoiMSJ9.ls_kdZ9TMC-p7JhJZ5xl8IbpUN-6oBDezSPJj98cqkEjkt4mFn574F3T_bepDWdbnw0hyLB9bSl62N5GemPSdrHKfK5qeAl7NTRrOD_fjuf5OdWxXOJbpfoJVm-M1cgBLoh94WF90oBmjl9EgNNCJd3cTKzP0O82KI1cg7WaXkHudb2Qe1oK8LC9N8zqdDrcflA8imrpbPnugnRwJnd8mjUgRVdBcE1IkIOS3C0QpHA.1rHRQnWlPhjCb_zUnuvuqBXASrhcA1FRS1jjbg7r6Bk&dib_tag=se&keywords=sanwa+buttons&qid=1738211115&sprefix=sanwa+button%2Caps%2C188&sr=8-5)  
+*  [3.5mm Headphone Jack Socket](https://shorturl.at/l9j3X)  
+*  [Sanwa button (pack of 6\)](https://shorturl.at/GY2mM)  
 *  [Casing 1](https://uk.farnell.com/hammond/1593kbk/case-abs-black-28x67-22x66-22mm/dp/930180) or [Casing 2](https://www.amazon.com/KIT-1593K-Box-Black-Plastic-PR1593K/dp/B00M2CLI8W/ref=sr_1_2?crid=2BP0LQDWQ8XD1&dib=eyJ2IjoiMSJ9.3RswQzKMgd4YoHlBrXR0OdmUQt-Y-r4KRpOnbHYC4XKNMNKxjg_sXoK70sBuGVxesYBWTMpTE42tP_jzJ1OEB81m7uha-c3y1KMHMA_iHxIzeWA8PMOvtY9XzFF4KgfPzdit8IQnl1w86nA_PMOL56wlSIfykFfw2D7Vn3xFxpWrirs_ONPrnVQuj3gRC0FCh2RlK5sPqUcYU2x9X0ReJs_gZHCyIB8ai5OS_aLMoLH2BusLiKpOOJ_tZqcil4wSjEhanCEKqJ5Trc9MfuENJn1N39jwK4kQzvFCijQHz94hqwjQ9Zo5_mi2JAnwBlQ78hT-i3vv5I3Iw3rvz07Ej60_ZWpVXewiAfuGBIPeJkZDntsTcTJFoB3ArtA1Hev_GIeg3KhJkFk-VrcxOazorSxak3oSYnKsVqhv9dC79TpfkIZeuF6WvCob8qcJeVzt.XZfdrY0VS6SG7ItUUU_m62-kekaM_4Qn7lrxl48X1aY&dib_tag=se&keywords=1593KBK+plastic+enclosure+box&qid=1738211021&sprefix=1593kbk+plastic+enclosure+box%2Caps%2C179&sr=8-2)  
 *  Drill including stepper drill bit  
 *  Soldering tools; Soldering iron, solder wire, fan
@@ -62,8 +62,8 @@ We still have to test it… Add pictures
 
 #### Materials Required
 
-*  [Existing Learning Resources Answer Buzzers](https://www.amazon.com/Learning-Resources-Answer-Buzzers-Set/dp/B004DJ51HQ/ref=sr_1_1?crid=19WHKDTYHE0WO&dib=eyJ2IjoiMSJ9.nfHObz_oPd5M_350R1UM46sAbvV0cwUQ9bDeAGh0Kh9McvZ3MMqe9VnQCg7SBJSEtJpKqLJnmn4nKgiTGQbTONRIxB3TQNaE9Nq6xr_7Nv_mzPdWpGCFDJgdm1yiRJ6RudxnFTKPCTw8Idstj_aYrp1uFnqez1D2SloihyTlws0V-N_dn0m5aoPO5jMmA1zl5a96k3RrQ_6tx3tFpy2va6d5m-ijOXYnRLplOUc4gQZBTp4fSXjjuXHOPzrrNUIPVG_IeF-xJ8oKTH88SgOmIzFiVCADalMs09-HlFpwdHvU4lExWnoRKoWR5_VemhoUfUzwxqYbQY_CKRFmUHZRJC45GLTBnRO4zyim8yIv9thnEZ5aBI796sS6YZ5ZLX9VcTDvXARWRaph0G7vv0gRiM5milJqAUT-_XC04NN5cvx-lJxO41pFKVSYoS09HdCe.OmpaYiwTc67cAOL6N_gyOUDRNrVtonMAre5db6U5Nhg&dib_tag=se&keywords=learning+resources+answer+buzzes&qid=1738211708&sprefix=learning+resources+answer+buzze%2Caps%2C230&sr=8-1)  
-*  [3.5mm Audio Cables](https://www.amazon.com/4-Pack-Replacement-Connector-Repair-Length/dp/B0BHX3K23V/ref=asc_df_B0BHX3K23V?mcid=c1d0447c8bfb316c933767f4358c201c&hvocijid=10338276923876892562-B0BHX3K23V-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10338276923876892562&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033316&hvtargid=pla-2281435176938&th=1)  
+*  [Existing Learning Resources Answer Buzzers](https://rb.gy/84rbo1)  
+*  [3.5mm Audio Cables](https://rb.gy/7culjj)  
 *  Zip Ties  
 *  Exacto knife  
 *  Soldering tools; Soldering iron, solder wire, fan
@@ -91,13 +91,13 @@ This switch took us around 1 hour to make for the first time. One challenge we e
 
 * [CAD file](https://www.switchedtoys.org/file-share/d42ab08c-5acf-4bfb-a61c-ba9ef6516be1) (require sign up for access)  
 * 3D printing filament  
-* [Switch](https://www.amazon.com/Switches-Mounted-Mechanical-Keyboard-Protective/dp/B092QX4M24?crid=38B85L0UB2C40&dib=eyJ2IjoiMSJ9.Q7Y_Z1zif5725BXqooaCqOPkDNkN4cHFgJ5hHYM6T5FPymSNeEn4CYZtJFL5pbt54kHegcysIj9cUBxGVeZoLyo8VMb2VXntkS6xZ1P4yYyncKl6lFG3YDY9VStUn4eOwVdpQd1txKmRH9TwSuQOGqyg-PGgDCO3LKrqS5pRs_4S9IOsLNxYFuuWw4tqhs5sfjPwhStdmbHOGaUaXNqZ6LZM9tpbCjy6jWHbdQeM6hE.-sODzr3AhlZE7vTFN2WdhsL1by-qku-ByyA51Gl1jeg&dib_tag=se&keywords=Cherry%2BMX%2BSpeed%2BSilver&qid=1737694959&sprefix=cherry%2Bmx%2Bspeed%2Bsilver%2Caps%2C146&sr=8-6&th=1&linkCode=sl1&tag=switched06-20&linkId=e4e1105a5ccd1545f43b38fdc8e59094&language=en_US&ref_=as_li_ss_tl)  
-* [3.5mm Jack connecter](https://www.amazon.com/SIOCEN-Replacement-3-5mm-Connector-Repair/dp/B08Q7CYHZC?crid=9D3Y6T1SHSF2&dib=eyJ2IjoiMSJ9.21QXfjjEXC4kcBOLDYg6fYeGvkTTOmVyy8XToZTbyOEY75TJFmfuvr0YZCD-i_Mqv3Lehd-m_P605yVS-d-SXohS8XW2ZHu8EP6Tz0tJb0KkLgZFg8DXz1BnxQzxiPAiNFuVzewF9reHn-mCY2FhQox5jE3xhpYhChHY4A8Ta85Y_bqGO5f-Unkp2Z9g_RcIdpbX1Y5LjJJx3RbWw0cg6g06YLfjRI7ekJVG95bVUeY._pQlHxQMCcZDdzad-Kzq_2GIhU9TbWwhksJdG2R7x70&dib_tag=se&keywords=mono+headphone+cable&qid=1737695026&sprefix=mono+headphon+cable,aps,150&sr=8-8&linkCode=sl1&tag=switched06-20&linkId=c23626769307e8063352ec73c699664c&language=en_US&ref_=as_li_ss_tl)
+* [Switch](https://rb.gy/b6cw3s)  
+* [3.5mm Jack connecter](https://rb.gy/9wx3bz)
 
 #### Instructions
 
 *   Follow along on the [creator’s video](https://www.youtube.com/watch?v=V0JpA9TjbxU)\!  
-*   Alternatively, people can buy the complete components through [this link](https://www.etsy.com/listing/1822992869/switch-kit-diy-3d-printed-switch-button?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=accessible+switches&ref=sr_gallery-1-8&sts=1&content_source=6888bc163d126fa479d3dc0c05f1c7d2c135ee95%253A1822992869&search_preloaded_img=1&organic_search_click=1) and assemble them on their own.
+*   Alternatively, people can buy the complete components through [this link](https://rb.gy/njk67a) and assemble them on their own.
 
 #### Results from our team’s recreation of the DIY
 

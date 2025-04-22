@@ -16,6 +16,10 @@ Finding the right accessible switch can be difficult and expensive, especially i
 
 Whether you're looking to learn more about switches, find where to buy them, or explore more affordable alternatives, we’ve got you covered. If you need a simple build with household materials, something that requires 3D printing and soldering, or a switch that fits specific mobility needs, we want to make sure there’s an option for you. We’ve researched and tested various switches to help you find what works best for your budget, experience level, and accessibility needs, all in one place.
 
+## Before you start DIYing
+
+Note that all DIYs should be built with care, especially if using power tools, soldering irons, etc. Always ensure the proper use of PPE, including but not limited to safety glasses, gloves, and proper ventilation. Make DIYs according to your own experience level.
+
 ## Types of switches
 
 * [Button switches](switches/button.md)

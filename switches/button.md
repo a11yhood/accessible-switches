@@ -32,10 +32,14 @@ Button Switches are the most common type of accessible switch because they are e
 
 ## DIYs
 
-### **DIY 1: Sanwa Switch**
+### DIY 1: Sanwa Switch
+
 #### Expertise Required
+
 * Soldering  
 * Using a drill
+
+#### Materials Required
 
 #### Materials Required
 *  [3.5mm Headphone Jack Socket](https://shorturl.at/l9j3X)  
@@ -49,7 +53,26 @@ Button Switches are the most common type of accessible switch because they are e
 
 #### Results from our team’s recreation of DIY
 
-We still have to test it… Add pictures
+![][image1]  
+Picture of the inside of the Sanwa Switch: Showing the internal wiring of the red sanwa button connected to a 3.5mm mono jack using red jumper wires
+
+When recreating this DIY project, we encountered several challenges. Based on the instructions provided by the creator, two holes –one small and one big– needed to be drilled into the switch box. Using the tools we had available to us, we opted for a power drill. However, because the box was made of a hard plastic, drilling a hole big enough to fit the button took considerable time and effort. If someone were to attempt this at home, they may find it difficult to create the hole with a large enough diameter without the proper tools. In contrast, drilling the smaller hole posed less of a challenge, as standard drill bits are sufficient to create it in a single pass.
+
+Another issue we faced was ensuring the holes were centered on the box. Although minor imperfections aren't a major concern, significant misalignment could interfere with the internal components during assembly. Fortunately, this wasn’t a problem in our case. 
+
+To secure the internal components of the switch, we used hot glue to fix the socket in place and a soldering kit for the electrical connections. While soldering wasn't mentioned in the original instructions, it offers a more secure and stable setup by preventing the components from shifting during further assembly. That said, soldering might be a difficult step for at-home users without prior experience or access to a soldering kit. 
+
+After full assembly, when testing out the switch…
+
+![][image2]  
+Completed Sanwa Switch Assembly: A durable, accessible assistive switch featuring a responsive red Sanwa button mounted on a 3D-printed black enclosure with a 3.5mm mono jack 
+
+[https://drive.google.com/file/d/1v0lgRhtxfefpPN2DBd-ohHTpFsJZHoaj/view?usp=sharing](https://drive.google.com/file/d/1v0lgRhtxfefpPN2DBd-ohHTpFsJZHoaj/view?usp=sharing) 
+
+[image1]: ![image](https://github.com/user-attachments/assets/b0cf7bce-fa2a-432c-8727-fff09ffc0aaa)
+
+
+[image2]: ![image](https://github.com/user-attachments/assets/0953a0a8-1713-41e1-b3a9-9a3e1ce61b61)
 
 <br>
 

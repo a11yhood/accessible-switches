@@ -17,10 +17,6 @@ ODMF is the community member that we are working with to help build more afforda
 
 More information on [ODMF](https://opendoorswa.org/)
 
-## Team 
-Katherine Escoto Licona 
-I'm a junior majoring in Geography Data Science with a minor in Leadership & Informatics
-
 <br> 
 
 ## Create   
@@ -30,5 +26,27 @@ CREATE is the center for research and technology in the University of Washington
 
 More information on [Create](https://create.uw.edu/)  
 
+## Team 
+Katherine Escoto Licona 
+I'm a junior majoring in Geography Data Science with a minor in Leadership & Informatics
+Brief Desciption on Work: I've been working on structuring and styling the website for the project and handling how to best to cordinate the needs of users to serve the best use of our website to show about acessible switches that can be built or how to make them at home.
+Contact??
 
 I am Laura
+
+
+Kaityln 
+Year:
+Brief Desciption on work 
+
+Omar 
+Year
+Brief Desciption on work 
+
+Catherine Ton 
+Year
+Brief Description on Work:
+
+Catherine Darma
+Year
+Brief Description on Work:

@@ -29,3 +29,6 @@ I'm a junior majoring in Geography Data Science with a minor in Leadership & Inf
 CREATE is the center for research and technology in the University of Washington in also striving to make technology be more accessible for people who have disabilities. CREATE works alongside with HuskyADAPT to help as an extra resource for projects. We've worked with CREATE to provide more feedback on our work on building switches and also a lot of feedback on building the website to be able to meet the needs of families while using it to learn more about switches.   
 
 More information on [Create](https://create.uw.edu/)  
+
+
+I am Laura

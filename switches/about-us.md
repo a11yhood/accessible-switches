@@ -1,5 +1,4 @@
-# About Us
-
+# About Us 
 ## Husky Adapt   
 ![image](https://github.com/user-attachments/assets/f0d38845-0445-4c32-91b4-ea80b21d4a2a)  
 <br>  
@@ -17,6 +16,10 @@ See more information on the [Husky Adapt Website](https://www.huskyadapt.me.uw.e
 ODMF is the community member that we are working with to help build more affordable switches for minority kids in Washington schools who have disabilities. With the provided information that we present on building switches and affordable DIY switches, ODMF can support more families and hopefully create a better learning environment for children.  
 
 More information on [ODMF](https://opendoorswa.org/)
+
+## Team 
+Katherine Escoto Licona 
+I'm a junior majoring in Geography Data Science with a minor in Leadership & Informatics
 
 <br> 
 

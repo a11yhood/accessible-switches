@@ -18,6 +18,7 @@ ODMF is the community member that we are working with to help build more afforda
 More information on [ODMF](https://opendoorswa.org/)
 
 <br> 
+<div style="color:blue; font-size:20px;">This is styled text.</div>
 
 ## Create   
 ![image](https://github.com/user-attachments/assets/3dbe7e55-f1f6-4bad-86d6-44825133e454)  

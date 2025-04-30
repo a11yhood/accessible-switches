@@ -33,8 +33,7 @@ I’m a junior studying Electrical and Computer Engineering at UW. I’ve been l
 
 **Katherine Escoto Licona**
 <br>
-I'm a junior majoring in Geography Data Science with a minor in Leadership & Informatics
-Brief Desciption on Work: I've been working on structuring and styling the website for the project and handling how to best to cordinate the needs of users to serve the best use of our website to show about acessible switches that can be built or how to make them at home.
+I'm a junior majoring in Geography Data Science with a minor in Leadership & Informatics. This is my first year in HuskyADAPT.I've been working on structuring and styling the website for the project and handling how to best to cordinate the needs of users to serve the best use of our website to show about acessible switches that can be built or how to make them at home.
 
 **Katelyn Doan** 
 <br>

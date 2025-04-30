@@ -26,7 +26,7 @@ CREATE is the center for research and technology in the University of Washington
 
 More information on [Create](https://create.uw.edu/)  
 
-## Team 
+## Switch Systems Team 
 **Laura Oliveira**
 <br>
 I’m a junior studying Electrical and Computer Engineering at UW. I’ve been leading the Switch System team this academic year, and this is my third year in HuskyADAPT. Over that time, I’ve gained hands-on experience working with accessible switches and designing tools that support inclusive technology.

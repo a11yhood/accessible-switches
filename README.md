@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-
+testing
 # Accessible switches
 
 Accessible switches, or adaptive switches, are assistive technology devices that enable [individuals with physical, cognitive, or movement-limiting impairments](https://enablingdevices.com/blog/different-types-of-adaptive-switches-for-individuals-with-disabilities/?srsltid=AfmBOoqzCfrFkNcwPgqxNL_NqOHPGh31QFYt1AkFsaKXI1vAx6VE6vXw) to interact with various electronic systems. These switches function as alternative input methods, replacing traditional interfaces like keyboards, touchscreens, or small buttons, and [can activate actions easier to perform by the user](https://ialabs.ie/adaptive-switches-and-how-they-help-people-with-disabilities/#:~:text=Adaptive%20switch%20devices%20are%20a,Operating%20a%20wheelchair). Users with conditions [affecting motor control](https://webaim.org/articles/motor/motordisabilities), including cerebral palsy, spinal cord injuries, muscular dystrophy, or many others, often rely on accessible devices, such as switches, to operate many things, thereby enhancing their independence and quality of life. 

@@ -28,22 +28,28 @@ More information on [Create](https://create.uw.edu/)
 
 ## Team 
 **Laura Oliveira**
+<br>
 I’m a junior studying Electrical and Computer Engineering at UW. I’ve been leading the Switch System team this academic year, and this is my third year in HuskyADAPT. Over that time, I’ve gained hands-on experience working with accessible switches and designing tools that support inclusive technology.
 
 **Katherine Escoto Licona**
+<br>
 I'm a junior majoring in Geography Data Science with a minor in Leadership & Informatics
 Brief Desciption on Work: I've been working on structuring and styling the website for the project and handling how to best to cordinate the needs of users to serve the best use of our website to show about acessible switches that can be built or how to make them at home.
 
 **Katelyn Doan** 
+<br>
 I am currently a junior majoring in Industrial and Systems Engineering with a minor in Business Administration at the University of Washington. This is my second year with HuskyADAPT. For this project in particular, I have been assisting in the research and development of various switches for the website. With so many switches available, it is my goal to test the feasibility and effectiveness of them to ensure that user needs are met. 
 
 **Omar Ahmad** 
+<br>
 I’m a senior majoring in Geography Data Science with a minor in Informatics at UW. This is my first year with HuskyADAPT and I focused on researching proximity-based switches and evaluating their cost, usability, and accessibility. I also contributed to writing technical content for the website and helping ensure that the information is clear and user-friendly.
 
 **Catherine Ton** 
+<br>
 I am a junior majoring in Bioengineering with a minor in Data Science at the University of Washington. This is my second year on the HuskyADAPT design team, where I have been involved in researching, developing, and testing accessible switches. Through this project, I have gained valuable experience in accessible switch design and have learned to prioritize user needs throughout the development process.
 
 **Catherine Darma**
+<br>
 I’m a junior studying Industrial and Systems Engineering with a minor in Informatics at UW. This is my first year in HuskyADAPT and I’ve been working on researching and building accessible switches.
 
 

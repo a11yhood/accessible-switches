@@ -16,6 +16,20 @@ Finding the right accessible switch can be difficult and expensive, especially i
 
 Whether you're looking to learn more about switches, find where to buy them, or explore more affordable alternatives, we’ve got you covered. If you need a simple build with household materials, something that requires 3D printing and soldering, or a switch that fits specific mobility needs, we want to make sure there’s an option for you. We’ve researched and tested various switches to help you find what works best for your budget, experience level, and accessibility needs, all in one place.
 
+## Background Information on Connecting Switches
+
+Most accessible switches are **activation switches** — when you press them, they send a signal that triggers a single action, like turning something on or starting a sound. They **don’t control a device** completely (like turning it off and on or changing settings); they simply act like a basic button press.
+
+Most of the DIY switches on our website are designed to connect using standard audio jacks (3.5mm)\*, which are commonly used in **adapted toys**. Adapted toys are modified so that pressing the switch performs the same action as the original button on the toy — for example, making the toy move or make a sound. The switch basically acts as a duplicate button in a more accessible location.
+
+\*Note: Any connection cord can be used, audo jacks, USB A, C, mini, etc. We use audio jacks as they are super common and easy to connect.
+
+However, if you plug one of these switches **directly into a regular tablet, iPad, or computer**, **nothing will happen**. That’s because tablets don’t automatically recognize or respond to a basic switch press. To make a switch work with a device like an iPad, you’ll need a **switch interface** — a tool that acts as a middleman between the switch and the device, translating a switch press into an action the device understands (like a screen tap or keyboard input).
+
+There are many tutorials online for how to set up switches with devices using different types of interfaces. One lower-cost example is the [**MakeyMakey**](https://makeymakey.com/?srsltid=AfmBOoolU5lBew_3lsnoGix1qg2osxmcw2p60T_b4pKg26lGRFjDTS9h), which is pre-programmed to work with computers and can be used as a basic switch interface for DIY switches.
+
+Keep in mind that most of the DIYs we include on this site only show how to make the switch itself, not how to connect it to a device. So when building one, you may need an additional tool — like an interface — depending on what you want to use it for.
+
 ## Before you start DIYing
 
 Note that all DIYs should be built with care, especially if using power tools, soldering irons, etc. Always ensure the proper use of PPE, including but not limited to safety glasses, gloves, and proper ventilation. Make DIYs according to your own experience level.

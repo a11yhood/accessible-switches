@@ -1,4 +1,5 @@
 # Sip and Puff Switch
+![Picture from Enabling Devices of a Sip and Puff Switch mounted on a wheelchair](https://github.com/user-attachments/assets/8fac33a4-69f3-4ab4-a044-1b1f23ab25c0)
 
 ## Purpose
 
@@ -20,13 +21,14 @@ Sip and Puff switches are switches that help users activate devices through the 
 
 ## DIYs
 
-### DIY 1: Science Buddies’ Puff Switch
+### **DIY 1: Science Buddies’ Puff Switch**
+Note: In order to make this switch a basic activation switch, you do not need the tech components, just the craft supplies and a connection method, like alligator clips and an audio jack. (For more detail, look at the home page.)
 
 #### Expertise Required
 
 * Basic circuit knowledge 
 
-#### Materials Required (Science Buddies) 
+#### Materials Required
 
 * [micro:bit Go Bundle](https://www.homesciencetools.com/product/microbit-go-bundle/?aff=SB1). ($21.95 \- $27.99) This kit contains everything you will need to get started working with micro:bit:  
   * micro:bit board ($15 \- $20)  
@@ -43,11 +45,11 @@ Sip and Puff switches are switches that help users activate devices through the 
   * Hot glue  
   * Binder clips or paper clips
 
-#### Instructions (Science Buddies) 
+#### Instructions
 
 * Follow along on the [creator’s page](https://www.sciencebuddies.org/science-fair-projects/project-ideas/HumBio_p069/human-biology-health/adaptive-puff-switch)\!
 
-#### Results from Our Team’s Recreation of DIY (Science Buddies) 
+#### Results from Our Team’s Recreation of DIY
 
 The DIY Puff switch was easy to replicate, and since it did not   
 require prior technical expertise or high-tech materials, it shows that this alternative is  
@@ -65,7 +67,7 @@ Below, shows our sip and puff prototype.
 
 <br>
 
-### DIY 2: AUTODESK Instructables 
+### **DIY 2: AUTODESK Instructables**
 
 [Arduino Controlled SIP & PUFF Switch](https://www.instructables.com/Arduino-Controlled-SIP-PUFF-Switch/), $75-80
 
@@ -90,7 +92,7 @@ Below, shows our sip and puff prototype.
 
 <br>
 
-### DIY 3: BOB’s ELECTRONICS PROJECTS
+### **DIY 3: BOB’s ELECTRONICS PROJECTS**
 
  \-[DIY SIP-AND-PUFF CONTROLLED TOYS](https://bobparadiso.com/2016/05/31/diy-sip-and-puff-controlled-toys/), $50-$150 
 

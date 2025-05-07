@@ -1,4 +1,6 @@
 # Pressure Plate Switch
+![image](https://github.com/user-attachments/assets/ebbc98f1-a8fb-4227-80f2-f136a358e90b)
+
 
 ## Purpose
 

@@ -1,8 +1,12 @@
 # Tilt Switch
+![image](https://github.com/user-attachments/assets/2e7ea43e-003e-4798-a2f2-1dd65c5e2a08)
+
+![image](https://github.com/user-attachments/assets/4480cb81-4447-4bd1-8bfb-38cb2c80d80f)
+
 
 ## Purpose
 
-Tilt switches are used to detect orientation changes and can serve as an accessible input device for individuals with mobility impairments. They are commonly utilized in assistive technology to enable interaction with electronic devices through simple tilting motions.
+Tilt switches are used to detect orientation changes and can serve as an accessible input device for individuals with mobility impairments. They are commonly utilized in assistive technology to enable interaction with electronic devices through simple tilting motions, without pressing or directly clicking contact in another way. This can be especially beneficial if a person has difficulty moving their limbs.
 
 <br>
 
@@ -41,5 +45,4 @@ Tilt switches are used to detect orientation changes and can serve as an accessi
 Follow along on with the [Tilt Switch DIY Walkthrough](https://www.instructables.com/Build-your-own-tilt-switch/) for a step-by-step guide on assembling your tilt switch
 
 #### Results from our team’s recreation of DIY
-
-Not yet made
+To make the DIY easier and cheaper, we used simple materials like a boba straw and regular drinking straw in place of silicone tubing, and assembled the circuit directly on a breadboard without a veroboard. 

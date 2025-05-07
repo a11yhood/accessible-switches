@@ -1,4 +1,5 @@
 # Proximity/Sensor Switch
+![image](https://github.com/user-attachments/assets/f7ce3fe3-9d15-4cc6-b210-2a07e459621c)
 
 ## Purpose
 
@@ -7,7 +8,7 @@ The purpose for proximity/sensor switches is to provide a hands-free, touchless 
 ## Purchasing and Price
 
 * Glassouse [Proximity switch](https://glassouse.com/product/proximity-switch-glassouse-assistive-device-accessory-hands-free/), $79  
-
+* Able Net [Switch](https://www.ablenetinc.com/big-candy-corn-2/?searchid=676024&search_query=proximity), $255
 ## Cheaper Market Alternatives For DIYs
 
 * Basic Motion Sensor Switch – *$5-$15* [Amazon](https://www.amazon.com/)  
@@ -21,7 +22,7 @@ The purpose for proximity/sensor switches is to provide a hands-free, touchless 
 
 #### Important Note:
 
-While the DIY proximity switch demonstrates how to use sensor components like the VL53L0X or an ultrasonic module, it is not a complete equivalent to a commercially available proximity switch designed for assistive technology use. These tutorials show how to build electronic components as a sensor but not how to convert it into a working proximity switch that can work for accessible devices..
+While the DIY proximity switch demonstrates how to use sensor components like the VL53L0X or an ultrasonic module, it is not a complete equivalent to a commercially available proximity switch designed for assistive technology use. These tutorials show how to build electronic components as a sensor but not how to convert it into a working proximity switch that can work for accessible devices.
 
 This switch can be built using off-the-shelf components. Some available DIY resources:
 
@@ -56,6 +57,7 @@ This switch can be built using off-the-shelf components. Some available DIY reso
 * [Panel Mount 3.5mm Audio Jack](https://www.sparkfun.com/audio-plug-3-5mm.html), $5.25
 
 **Power Source**
+
 
 * [9V Battery Holder with Barrel Jack](https://www.adafruit.com/product/67), $3.50
 

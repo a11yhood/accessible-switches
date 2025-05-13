@@ -11,7 +11,7 @@ The DIYs we've included are solid examples, but the core idea is that if you con
 
 ## DIYs
 
-### DIY 1: Hinge Switch
+### **DIY 1: Hinge Switch**
 
 #### Materials Required
 
@@ -30,11 +30,14 @@ By making the DIY Hinge switch, we ensured that the usability standards were met
 
 ![Picture of Hinge switch DIY built: The top and bottom pieces can be pressed together to connect the aluminum, creating a signal](https://github.com/user-attachments/assets/070e0e8e-5f1d-4ba7-8091-595d0ed1ce05)
 
+<br> 
+Picture of Hinge switch DIY built: The top and bottom pieces can be pressed together to connect the aluminum, creating a signal 
+
 [![Watch the demo on YouTube](https://www.youtube.com/embed/5_UZgxYl_HY)](https://www.youtube.com/embed/5_UZgxYl_HY)
 
 <br>
 
-### DIY 2: Pencil Lead Switch
+### **DIY 2: Pencil Lead Switch**
 
 #### Materials Required
 
@@ -54,7 +57,11 @@ The pencil lead switch worked but shows that it is not a reliable switch. It fun
 
 <br> 
 
-### DIY 3: Paper Fastener Switch
+Image of Pencil Lead Switch: Piece of paper folded in half with pencil lead drawn on both sides. When paper is folded closed, the pencil drawn will come in contact and create a connection. 
+
+Video Demo: https://youtu.be/eOfNpFngojk
+
+### **DIY 3: Paper Fastener Switch**
 
 #### Materials Required
 Cardboard
@@ -73,7 +80,7 @@ The Paper Fastener DIY was not very effective, similar to the pencil lead switch
 
 <br> 
 
-### DIY 4: Clothespin Switch
+### **DIY 4: Clothespin Switch**
 
 #### Materials Required
 
@@ -90,7 +97,7 @@ The Paper Fastener DIY was not very effective, similar to the pencil lead switch
 
 <br> 
 
-### DIY 5: 3D Assistive Switch (2 Types)
+### **DIY 5: 3D Assistive Switch (2 Types)**
 
 #### Expertise Required
 
@@ -117,7 +124,7 @@ The Paper Fastener DIY was not very effective, similar to the pencil lead switch
 
 <br> 
 
-### DIY 6: TinkerCAD Switch
+### **DIY 6: TinkerCAD Switch**
 
 ### Expertise Required
 

@@ -1,6 +1,6 @@
 # Sip and Puff Switch
 ![Picture from Enabling Devices of a Sip and Puff Switch mounted on a wheelchair](https://github.com/user-attachments/assets/8fac33a4-69f3-4ab4-a044-1b1f23ab25c0)
-
+Picture from Enabling Devices of a Sip and Puff Switch mounted on a wheelchair
 ## Purpose
 
 Sip and Puff switches are switches that help users activate devices through the action of sipping and puffing air through a tube. This switch is commonly used for individuals who have limited or no use of their upper extremities to control devices, using only their mouth to activate the switch.
@@ -38,12 +38,12 @@ Note: In order to make this switch a basic activation switch, you do not need th
 * Computer with internet access and USB port  
 * [Alligator clip leads](https://www.homesciencetools.com/product/alligator-clip-leads-2-pack/) ($3 \- $5)   
 * Craft supplies to build your puff switch. This is an engineering design project, so the exact materials you will need may vary depending on your design, but here are some suggestions:  
-  * Straw  
-  * Cardboard  
-  * Aluminum foil  
-  * Tape  
+  * [Straw](https://www.amazon.com/Amazon-Basics-Disposable-Striped-Assorted/dp/B0D6T59JGQ/ref=sr_1_2?crid=3USES0KD5JXRX&dib=eyJ2IjoiMSJ9.sK4nNilMeGZK1i3od-I-P7AzHP9ukWKCfLwfz62sQlPadU3nk9NHECl3fNOOG3eEJOgeWXKLzkGo9wR0VyEFJCFVFAR4Zm8IFuAGCWBDCMx29KEfzmkC0_juD4YusTHtF8tQAbACWck9itlvEddeEaWlWKLNYtZciPYR9Oy-62UbVzhneuEXW_UEa7ch2mIkocMfpSnpF9118LKkTntMZLJ_qSDMi8sdM-e2dAwPsooLM1eK1VD6Mef1K6JroPvIPgQ7xZPDIvCC4Oc18Y_qZ8PWGZuGRO9EaYKGY5GCbak.eYEFK__QaUwxXNDNMRx7lo6ThKWE0WDoXjOZ7kiGssk&dib_tag=se&keywords=straws+amazon+one&qid=1747026446&sprefix=straws+amazon+one+%2Caps%2C144&sr=8-2)
+  * [Cardboard](https://www.amazon.com/dp/B0B6GK2MFD) 
+  * Aluminum foil(https://www.amazon.com/dp/B005GPJCHQ?th=1) 
+  * [Tape](https://www.fredmeyer.com/p/scotch-shipping-heavy-duty-packaging-tape/0005113164204) 
   * Hot glue  
-  * Binder clips or paper clips
+  * [Binder clips](https://www.amazon.com/Medium-Binder-Clips-Width-Office/dp/B07V3VV2S9?th=1) or [paper clips](https://www.amazon.com/Officemate-OIC99916-Paper-Clips/dp/B000Q5Z8TW?th=1)
 
 #### Instructions
 
@@ -93,8 +93,6 @@ Below, shows our sip and puff prototype.
 <br>
 
 ### **DIY 3: BOB’s ELECTRONICS PROJECTS**
-
- \-[DIY SIP-AND-PUFF CONTROLLED TOYS](https://bobparadiso.com/2016/05/31/diy-sip-and-puff-controlled-toys/), $50-$150 
 
 #### Expertise Required
 

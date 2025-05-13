@@ -110,9 +110,9 @@ The Paper Fastener DIY was not very effective, similar to the pencil lead switch
 
 * [CAD File Type 1: Raindrop](https://www.printables.com/model/214260-raindrop-switch)  
 * [CAD File Type 2: Light Touch](https://www.printables.com/model/214268-light-touch-switch)   
-* Switch  
-* Audio jack  
-* Wires  
+* [Switch](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-5050/368377)  
+* [Audio jack](https://www.amazon.com/dp/B0BHX3K23V?th=1)  
+* [Wires](https://www.amazon.com/dp/B0B9JCJMNP)  
 * Bolt (for light touch only)  
 * Glue gun
 

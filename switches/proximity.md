@@ -1,5 +1,6 @@
 # Proximity/Sensor Switch
 ![image](https://github.com/user-attachments/assets/f7ce3fe3-9d15-4cc6-b210-2a07e459621c)
+<br>
 Image showing a hand hovering over the assistive device from Glassouse, a proximity switch, placed on a desk.
 
 ## Purpose

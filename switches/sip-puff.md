@@ -1,5 +1,6 @@
 # Sip and Puff Switch
 ![Picture from Enabling Devices of a Sip and Puff Switch mounted on a wheelchair](https://github.com/user-attachments/assets/8fac33a4-69f3-4ab4-a044-1b1f23ab25c0)
+<br>
 Picture from Enabling Devices of a Sip and Puff Switch mounted on a wheelchair
 ## Purpose
 

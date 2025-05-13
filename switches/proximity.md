@@ -1,9 +1,12 @@
 # Proximity/Sensor Switch
 ![image](https://github.com/user-attachments/assets/f7ce3fe3-9d15-4cc6-b210-2a07e459621c)
+Image showing a hand hovering over the assistive device from Glassouse, a proximity switch, placed on a desk.
 
 ## Purpose
 
-The purpose for proximity/sensor switches is to provide a hands-free, touchless way to activate devices, making them ideal for individuals with motor disabilities.  
+The purpose for proximity/sensor switches is to provide a hands-free, touchless way to activate devices, making them ideal for individuals with motor disabilities who don’t want to use much force to activate things.  
+
+<br>
 
 ## Purchasing and Price
 

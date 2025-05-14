@@ -2,9 +2,9 @@
 ## Husky Adapt   
 ![image](https://github.com/user-attachments/assets/f0d38845-0445-4c32-91b4-ea80b21d4a2a)  
 <br>  
-You may be wondering what is HuskyADAPT? HuskyADAPT is a student organization at the University of Washington, Seattle, that works on making more accessible design and inclusivity in technology. Within this organization, Design Teams work on a project year-round dedicated to research, design, prototype, and test a specific design problem from community members.  
+HuskyADAPT is a student organization at the University of Washington, Seattle, that works on accessible design and play technology. Within this organization, Design Teams work on a project year-round dedicated to researching, designing, prototyping, and testing a specific design problem from community members.  
 
-We are a group of six undergraduate students forming a multidisciplinary team focused on building an informational website about accessible switches, including cheaper alternatives to buying a switch. The switches we build during testing will be provided to our partner, ODMF. ODMF is helping us create a platform we know will be helpful for the community. We are also working with with a few accessibility experts from CREATE.
+We are a group of six undergraduate students forming a multidisciplinary team focused on building an informational website about accessible switches, including cheaper alternatives to buying a switch. The switches we build during testing will be provided to our partner, ODMF. ODMF is helping us create a platform we know will be helpful for the community. We are also working with with a few accessibility experts from CREATE. All the content on the website is what we have researched and compiled together. 
 
 See more information on the [Husky Adapt Website](https://www.huskyadapt.me.uw.edu/) or on [Instragram](https://www.instagram.com/huskyadapt/)
 

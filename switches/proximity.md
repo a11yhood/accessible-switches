@@ -1,7 +1,8 @@
 # Proximity/Sensor Switch
-![image](https://github.com/user-attachments/assets/f7ce3fe3-9d15-4cc6-b210-2a07e459621c)
+![Image showing a hand hovering over the assistive device from Glassouse, a proximity switch, placed on a desk.](https://github.com/user-attachments/assets/f7ce3fe3-9d15-4cc6-b210-2a07e459621c)
+
 <br>
-Image showing a hand hovering over the assistive device from Glassouse, a proximity switch, placed on a desk.
+
 
 ## Purpose
 
@@ -22,7 +23,7 @@ The purpose for proximity/sensor switches is to provide a hands-free, touchless 
 
 ## DIYs
 
-### DIY1: Proximity Switch Design
+### **DIY1: Proximity Switch Design**
 
 #### Important Note:
 

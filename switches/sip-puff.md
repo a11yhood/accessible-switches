@@ -11,9 +11,7 @@ Sip and Puff switches are switches that help users activate devices through the 
 
 ## Purchasing and Price
 
-**Common Sip and Puff switches available on the market are:**
-
-### Ready-Made switches:
+**Ready-Made switches on the market:**
 
 * Adaptive Tech Solutions, [Sip & Puff Switch](https://www.adaptivetechsolutions.com/sip-puff-switch/), $176.00  
 * Enabling Device, [Sip & Puff Switch](https://enablingdevices.com/product/sip-and-puff-switches/), $214.95   

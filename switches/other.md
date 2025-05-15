@@ -5,7 +5,6 @@ These switches are designed to be **quick, cost-effective, and simple to build w
 
 The DIYs we've included are solid examples, but the core idea is that if you connect two conductive materials (like metal) and apply gentle pressure to bring them together, you create a working switch. As long as each side is hooked up to something like alligator clips, it’s easy to attach your switch to a toy or device using an audio jack, as shown in the pictures below. This makes DIY switches flexible and customizable based on the materials you have. A basic example is shown below. (Learn more about connecting switches on our home page.)
 
-<br>
 
 ![Picture of an adapted toy penguin with connected audio jack. Audio jack cable splits into one red and one black wire where you could connect something in between them to make a switch.](https://github.com/user-attachments/assets/af74b76b-73ea-4e49-a0c0-24d15224314b)
 
@@ -35,8 +34,6 @@ By making the DIY Hinge switch, we ensured that the usability standards were met
 ![Picture of Hinge switch DIY built: The top and bottom pieces can be pressed together to connect the aluminum, creating a signal](https://github.com/user-attachments/assets/070e0e8e-5f1d-4ba7-8091-595d0ed1ce05)
 
 <br>
-
-Picture of Hinge switch DIY built: The top and bottom pieces can be pressed together to connect the aluminum, creating a signal 
 
 [![Watch the demo on YouTube](https://www.youtube.com/embed/5_UZgxYl_HY)](https://www.youtube.com/embed/5_UZgxYl_HY)
 
@@ -78,14 +75,14 @@ The pencil lead switch worked but shows that it is not a reliable switch. It fun
 
 
 #### Instructions
-[![Watch the video here][(https://www.youtube.com/watch?v=S5Fhvv2YJG4)](https://www.youtube.com/watch?v=S5Fhvv2YJG4)
+* [Watch the video here](https://www.youtube.com/watch?v=S5Fhvv2YJG4)
 
 #### Results from our team’s recreation of DIY
-The Paper Fastener DIY was not very effective, similar to the pencil lead switch in terms of connectivity. The brass fasteners used in the recreation lacked sufficient conductivity. It is recommended to use a stronger metal for better performance. This DIY is only worth attempting if materials are already on hand. For better results, replicating the pencil switch or paper plate switch may be a better idea
+The Paper Fastener DIY was not very effective, similar to the pencil lead switch in terms of connectivity. The brass fasteners used in the recreation lacked sufficient conductivity. It is recommended to use a stronger metal for better performance. This DIY is only worth attempting if materials are already on hand. For better results, replicating the pencil switch or paper plate switch may be a better idea.
 
 ![image](https://github.com/user-attachments/assets/99b2b88f-c62e-48eb-9df3-0de121345528)
 
-[DIY Paper Fastener Switch Demo](https://www.youtube.com/watch?v=is0tJSbBWkk) This video does a great job in showing what the finished product should look like
+[DIY Paper Fastener Switch Demo](https://www.youtube.com/watch?v=is0tJSbBWkk) This video does a great job in showing what the finished product should look like.
 
 
 <br> 
@@ -101,7 +98,7 @@ The Paper Fastener DIY was not very effective, similar to the pencil lead switch
 
 #### Instructions
 
-* [Link to video here](https://www.youtube.com/watch?v=z0MzCphWuLk)
+* Follow along [here](https://www.youtube.com/watch?v=z0MzCphWuLk)
 
 <br> 
 

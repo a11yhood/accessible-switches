@@ -71,7 +71,6 @@ Below, shows our sip and puff prototype.
 
 ### **DIY 2: AUTODESK Instructables**
 
-[Arduino Controlled SIP & PUFF Switch](https://www.instructables.com/Arduino-Controlled-SIP-PUFF-Switch/), $75-80
 
 #### Expertise Required
 

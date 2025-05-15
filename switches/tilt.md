@@ -47,8 +47,6 @@ Tilt switches are used to detect orientation changes and can serve as an accessi
 
 * Follow along on with the [Tilt Switch DIY Walkthrough](https://www.instructables.com/Build-your-own-tilt-switch/) for a step-by-step guide on assembling your tilt switch
 
-Follow along on with the [Tilt Switch DIY Walkthrough](https://www.instructables.com/Build-your-own-tilt-switch/) for a step-by-step guide on assembling your tilt switch
-
 #### Results from our team’s recreation of DIY
 To make the DIY easier and cheaper, we used simple materials like a boba straw and regular drinking straw in place of silicone tubing, and assembled the circuit directly on a breadboard without a veroboard. 
 
@@ -62,7 +60,7 @@ We also created a version using cardboard and hot glue, showing that a breadboar
 
 ![Picture of pin alignment inside a straw tube with a ball. Placed on top of a piece of cardboard paper](https://github.com/user-attachments/assets/04e55739-ab2e-4bf0-9bc0-a5e4d603a329)
 
-[![Watch the video on toy](https://youtu.be/W8qCWu5RoEY](https://youtu.be/W8qCWu5RoEY)
+[![Watch the video on toy](https://youtu.be/W8qCWu5RoEY)](https://youtu.be/W8qCWu5RoEY)
 
 [![Video on Breadboard](https://youtu.be/RC6oM0x_1uo)](https://youtu.be/RC6oM0x_1uo)
 

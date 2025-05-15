@@ -61,7 +61,7 @@ We also created a version using cardboard and hot glue, showing that a breadboar
 
 ![Picture of pin alignment inside a straw tube with a ball. Placed on top of a piece of cardboard paper](https://github.com/user-attachments/assets/04e55739-ab2e-4bf0-9bc0-a5e4d603a329)
 
-[![Watch the video on toy](https://youtu.be/W8qCWu5RoEY](https://youtu.be/W8qCWu5RoEY)](https://youtu.be/W8qCWu5RoEY)
+[![Watch the video on toy](https://youtu.be/W8qCWu5RoEY](https://youtu.be/W8qCWu5RoEY)
 
 [![Video on Breadboard](https://youtu.be/RC6oM0x_1uo)](https://youtu.be/RC6oM0x_1uo)
 

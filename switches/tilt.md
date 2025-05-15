@@ -1,9 +1,10 @@
 # Tilt Switch
-![Image of a tilt switch that can be attached with the use of a velcro strap from Enabling Devices. This rendition of the tilt switch can be attached to various parts of the users’ body and activated when the user tilts that body part. ](https://github.com/user-attachments/assets/f1c6a5f4-f171-4c02-ac24-af99cc8ed1c3)
+
+![Image of a tilt switch that can be attached with the use of a velcro strap from Enabling Devices. This rendition of the tilt switch can be attached to various parts of the users’ body and activated when the user tilts that body part. ](https://github.com/user-attachments/assets/2743bb8c-f27a-42b9-a6ee-64777e8e58d7)
 
 <br>
 
-![Image from Arduino showing the working of a ball-tilt switch sensor. On the left, the sensor is upright with a ball positioned at the top of the sensor, keeping the circuit open (represented by A and B not connected). On the right, when the sensor is tilted, the ball moves and connects the two contacts (A and B), closing the circuit. ](https://github.com/user-attachments/assets/863d58ef-fd68-46b1-84cd-8ccef3fa6a6d)
+![Image from Arduino showing the working of a ball-tilt switch sensor. On the left, the sensor is upright with a ball positioned at the top of the sensor, keeping the circuit open (represented by A and B not connected). On the right, when the sensor is tilted, the ball moves and connects the two contacts (A and B), closing the circuit.](https://github.com/user-attachments/assets/e0e5e1f1-4475-4b03-9f89-fb62eb9db2ff)
 
 
 <br> 

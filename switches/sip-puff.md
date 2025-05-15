@@ -1,7 +1,8 @@
 # Sip and Puff Switch
 ![Picture from Enabling Devices of a Sip and Puff Switch mounted on a wheelchair](https://github.com/user-attachments/assets/8fac33a4-69f3-4ab4-a044-1b1f23ab25c0)
+
 <br>
-Picture from Enabling Devices of a Sip and Puff Switch mounted on a wheelchair
+
 ## Purpose
 
 Sip and Puff switches are switches that help users activate devices through the action of sipping and puffing air through a tube. This switch is commonly used for individuals who have limited or no use of their upper extremities to control devices, using only their mouth to activate the switch.

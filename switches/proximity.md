@@ -13,11 +13,7 @@ The purpose for proximity/sensor switches is to provide a hands-free, touchless 
 ## Purchasing and Price
 
 * Glassouse [Proximity switch](https://glassouse.com/product/proximity-switch-glassouse-assistive-device-accessory-hands-free/), $79  
-* Able Net [Switch](https://www.ablenetinc.com/big-candy-corn-2/?searchid=676024&search_query=proximity), $255
-## Cheaper Market Alternatives For DIYs
-
-* Basic Motion Sensor Switch – *$5-$15* [Amazon](https://www.amazon.com/)  
-* 3.5mm Audio Jack Adapter for Output Connection – *$2-$5* [Amazon](https://www.amazon.com/)
+* Able Net [Big Candy Corn Switch](https://www.ablenetinc.com/big-candy-corn-2/?searchid=676024&search_query=proximity), $255
 
 <br>
 

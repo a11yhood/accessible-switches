@@ -11,6 +11,8 @@ The DIYs we've included are solid examples, but the core idea is that if you con
 
 Connect anything to the end of those two free alligator clips, and once they touch, a connection will be made and the switch has been activated.
 
+<br>
+
 ## DIYs
 
 ### **DIY 1: Hinge Switch**
@@ -32,7 +34,8 @@ By making the DIY Hinge switch, we ensured that the usability standards were met
 
 ![Picture of Hinge switch DIY built: The top and bottom pieces can be pressed together to connect the aluminum, creating a signal](https://github.com/user-attachments/assets/070e0e8e-5f1d-4ba7-8091-595d0ed1ce05)
 
-<br> 
+<br>
+
 Picture of Hinge switch DIY built: The top and bottom pieces can be pressed together to connect the aluminum, creating a signal 
 
 [![Watch the demo on YouTube](https://www.youtube.com/embed/5_UZgxYl_HY)](https://www.youtube.com/embed/5_UZgxYl_HY)
@@ -62,6 +65,8 @@ The pencil lead switch worked but shows that it is not a reliable switch. It fun
 
 
 [![Video Demo](https://youtu.be/eOfNpFngojk)](https://youtu.be/eOfNpFngojk)
+
+<br>
 
 ### **DIY 3: Paper Fastener Switch**
 

@@ -19,10 +19,8 @@ Tilt switches are used to detect orientation changes and can serve as an accessi
 
 ### Common tilt switches available on the market are:
 
-* Enabling device:  
-  * [Tilt Switch](https://enablingdevices.com/product/tilt-switch/?srsltid=AfmBOopQSjju1NKjWzchuw42xmDl3LrgsQwytpzV_RaN-MgDI75O8wGJ), $49.95  
-* School of Health:  
-  * [Adaptivation Dispsy Tilt Switch](https://www.schoolhealth.com/adaptivation-dipsy-tilt-sensitive-switch), $55.99
+* Enabling device [Tilt Switch](https://enablingdevices.com/product/tilt-switch/?srsltid=AfmBOopQSjju1NKjWzchuw42xmDl3LrgsQwytpzV_RaN-MgDI75O8wGJ), $49.95  
+* School of Health [Adaptivation Dispsy Tilt Switch](https://www.schoolhealth.com/adaptivation-dipsy-tilt-sensitive-switch), $55.99
 
 <br>
 

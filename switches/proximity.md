@@ -12,6 +12,8 @@ The purpose for proximity/sensor switches is to provide a hands-free, touchless 
 
 ## Purchasing and Price
 
+### Common tilt switches available on the market are:
+
 * Glassouse [Proximity switch](https://glassouse.com/product/proximity-switch-glassouse-assistive-device-accessory-hands-free/), $79  
 * Able Net [Big Candy Corn Switch](https://www.ablenetinc.com/big-candy-corn-2/?searchid=676024&search_query=proximity), $255
 

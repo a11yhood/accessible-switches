@@ -26,7 +26,7 @@ Tilt switches are used to detect orientation changes and can serve as an accessi
 
 ## DIYs
 
-### **DIY1: Tilt Switch**
+### **DIY 1: Tilt Switch**
 
 #### Expertise Required
 

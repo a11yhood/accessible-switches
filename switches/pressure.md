@@ -1,6 +1,6 @@
 # Pressure Plate Switch
-![image](https://github.com/user-attachments/assets/ebbc98f1-a8fb-4227-80f2-f136a358e90b)
 
+![Image of a pressure plate assistive switch with a large, yellow, square surface and a blue, rubberized casing from Enabling Devices. The device is connected to a cable with a plug, positioned for easy use on a flat surface](https://github.com/user-attachments/assets/92248d25-cc24-420b-8e65-6773307a51d8)
 
 ## Purpose
 
@@ -24,7 +24,7 @@ Some well-known manufacturers of pressure plate switches include:
 
 ## DIYs
 
-### DIY 1: Cardboard and Aluminum Foil
+### **DIY 1: Cardboard and Aluminum Foil**
 
 #### Expertise Required
 

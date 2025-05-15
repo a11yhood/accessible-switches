@@ -64,6 +64,18 @@ To secure the internal components of the switch, we used hot glue to fix the soc
 
 After full assembly, when testing out the switch, we saw that the enclosure we originally had does not fit the switch correctly. It is slightly too short which doesnt allow the button to press down and come back enough enough to change the connection. So instead, we designed and printed an enclosure that fits the Sanwa Switch Button and the headphone jack sockets, without needing additional drilling. 
 
+**CAD files:**
+
+[https://a360.co/44TgzWH](https://a360.co/44TgzWH) (bottom)
+
+[https://a360.co/42Uxvuj](https://a360.co/42Uxvuj) (top)
+
+[https://a360.co/4meXuUY](https://a360.co/4meXuUY) (top \+ bottom)
+
+This CAD design was printed and assembled together using hot glue. We had to file the holes a little in order to fit the headphone jack socket correctly as the CAD file did not print perfectly. We recommend pushing the box together tightly when gluing it down to avoid a gap, seen in the picture below.
+
+![Completed Sanwa Switch Assembly: A durable, accessible assistive switch featuring a responsive yellow Sanwa button mounted on a purple square plastic enclosure with a 3.5mm mono jack socket](https://github.com/user-attachments/assets/65b68f19-abb4-4411-8f89-6077b0e79ec7)
+
 ![Completed Sanwa Switch Assembly: A durable, accessible assistive switch featuring a responsive red Sanwa button mounted on a black square plastic enclosure with a 3.5mm mono jack socket](https://github.com/user-attachments/assets/0953a0a8-1713-41e1-b3a9-9a3e1ce61b61)  
 
 <br>
@@ -133,7 +145,7 @@ Below, shows our assembled 3D Printed Mini Button Switch.
 
 #### Expertise Required
 
-* 3D printing
+* 3D printing  
 * Soldering  
 * Ability to follow wiring diagrams
 
@@ -141,9 +153,9 @@ Below, shows our assembled 3D Printed Mini Button Switch.
 
 * [CAD File Type 1: Raindrop](https://www.printables.com/model/214260-raindrop-switch)  
 * [CAD File Type 2: Light Touch](https://www.printables.com/model/214268-light-touch-switch)   
-* Switch  
+* [Tactile Switch](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-5050/368377), $1  
 * [3.5mm Audio Cables](https://amazon.com/dp/B0BHX3K23V) (pack of 4), $9, or [3.5mm Jack](https://amazon.com/dp/B082VVPTN6) Cables (pack of 10), $12  
-* Wires  
+* [Wires](https://amazon.com/dp/B0B9JCJMNP)  
 * Bolt (for light touch only)  
 * Hot glue gun
 
@@ -153,7 +165,22 @@ Below, shows our assembled 3D Printed Mini Button Switch.
 
 #### Results from our team’s recreation of DIY
 
-<br>  
+These switches were pretty easy to recreate. Some issues we encountered were that the Light Touch Switch’s print got a little messed up without support, but we were able to melt the plastic in order for it to fit the bolt.
+
+![Top half of 3D printed Light Touch Switch. Hole covered by error while 3D printing. ](https://github.com/user-attachments/assets/292aeb31-1c22-4814-9a0c-91a09b909c9a)
+
+![Top half of 3D printed Light Touch Switch. Plastic melted to be able to fit the bolt.](https://github.com/user-attachments/assets/c5a96182-1149-445d-816d-7a26f973c9bb)
+
+We also did not have access to the exact Tactile switch the original tutorial used, so it did not fit perfectly. The button switch we had was one that looked similar to one shown in their instruction slides (shown below). We had to add extra hot glue and redo the process a few times for both switches to ensure the buttons were actually clicking and making a connection in the switch. The lid of the Rain Drop switch did not end up fitting flush with the casing as intended because of those issues. We would recommend getting a Tactile Switch like they used to make the process easier and cleaner.
+
+![Screenshot of small push button switch from instructions](https://github.com/user-attachments/assets/c49b5c38-7395-4930-88ab-9a30e4642743)
+
+These are some photos of the finished switches.
+
+![Photo of Light Touch Switch and Rain Drop Switch together](https://github.com/user-attachments/assets/feb09c23-70b1-4de0-8da5-e7a9830e11c6)
+
+<br>
+
 
 ### **DIY 5: TinkerCAD Switch**
 

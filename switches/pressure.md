@@ -10,11 +10,9 @@ The pressure plate is an assistive device designed to activate electronics throu
 
 ## Purchasing and Price
 
-### Ready-Made Switches
-
 Prices vary depending on the brand, size, and sensitivity of the switch. On average, a commercially available pressure plate switch costs between $50 and $200, making it reliable and durable, but costly.
 
-Some well-known manufacturers of pressure plate switches include:
+**Ready-Made switches on the market:**
 
 * Enabling Devices, [Plate Switch](https://enablingdevices.com/product/plate-switches/) ($59.95)  
 * Mealtime Partners, [Pal Pad](https://www.mealtimepartners.com/products/adaptive_switches/pal_pad_adaptive_switches.htm) ($80.95 \- $88.95)  

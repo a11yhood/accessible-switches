@@ -42,12 +42,18 @@ Button Switches are the most common type of accessible switch because they are e
 #### Materials Required
 
 #### Materials Required
-*  [3.5mm Headphone Jack Socket](https://amazon.com/dp/B07MN1RK7F) (pack of 4), $7
-*  [Sanwa button (pack of 6\)](https://amazon.com/dp/B00IJRKSHQ) (pack of 6), $18
-*  [Casing 1](https://uk.farnell.com/hammond/1593kbk/case-abs-black-28x67-22x66-22mm/dp/930180)
-*  *A square or rectangular plastic enclosure could be 3D printed instead; but these instructions pushcase a casing
-*  Drill including stepper drill bit  
-*  Soldering tools; Soldering iron, solder wire, fan
+
+* [3.5mm Headphone Jack Socket](https://amazon.com/dp/B07MN1RK7F) (pack of 4), $7  
+* [Sanwa button](https://amazon.com/dp/B00IJRKSHQ) (pack of 6), $18  
+* [Casing 1](https://uk.farnell.com/hammond/1593kbk/case-abs-black-28x67-22x66-22mm/dp/930180), $5  
+  * These instructions say pushcase a casing, we have built a CAD enclosure that you can print instead:  
+    * [https://a360.co/44TgzWH](https://a360.co/44TgzWH) (bottom)  
+    * [https://a360.co/42Uxvuj](https://a360.co/42Uxvuj) (top)  
+    * [https://a360.co/4meXuUY](https://a360.co/4meXuUY) (top \+ bottom)  
+* Hot Glue  
+* Drill including stepper drill bit  
+* Soldering tools; Soldering iron, solder wire, fan
+
 
 #### Instructions
 *  Follow along on the [creator’s page](https://oneswitch.org.uk/page/diy-sanwa-accessibility-switch)\!
@@ -203,4 +209,3 @@ These are some photos of the finished switches.
 
 * Instructions can be found in this [website](https://www.instructables.com/Create-Adaptive-Switches-With-TinkerCAD-and-3D-Pri/)
 
-#### Results from our team’s recreation of DIY

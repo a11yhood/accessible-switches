@@ -51,6 +51,6 @@ Our team successfully built a working pressure plate switch using this method. T
 
 <br>
 
-This is an alternative example of how using different materials like an adaptive switch looks like when connecting to a preasure plate switch.
+This is an alternative example using different materials to make a pressure plate switch:
 
 [![Pressure Plate Demo on Toy](https://youtube.com/shorts/aUV_v7fguIU?feature=share)](https://youtube.com/shorts/aUV_v7fguIU?feature=share)

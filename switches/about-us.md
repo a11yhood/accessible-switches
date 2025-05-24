@@ -31,9 +31,9 @@ More information on [Create](https://create.uw.edu/)
 <br>
 I’m a junior studying Electrical and Computer Engineering at UW. I’ve been leading the Switch System team this academic year, and this is my third year in HuskyADAPT. Over that time, I’ve gained hands-on experience working with accessible switches and designing tools that support inclusive technology.
 
-**Katherine Escoto Licona**
+**Katherine Escoto Licona** 
 <br>
-I'm a junior majoring in Geography Data Science with a minor in Leadership & Informatics. This is my first year in HuskyADAPT.I've been working on structuring and styling the website for the project and handling how to best to cordinate the needs of users to serve the best use of our website to show about acessible switches that can be built or how to make them at home.
+I'm a junior majoring in Geography Data Science with a minor in Leadership & Informatics. This is my first year in HuskyADAPT. I've been working on structuring and styling the website for the project and handling how to best to cordinate the needs of users to serve the best use of our website to show about acessible switches that can be built or how to make them at home.
 
 **Katelyn Doan** 
 <br>
@@ -51,6 +51,7 @@ I am a junior majoring in Bioengineering with a minor in Data Science at the Uni
 <br>
 I’m a junior studying Industrial and Systems Engineering with a minor in Informatics at UW. This is my first year in HuskyADAPT and I’ve been working on researching and building accessible switches.
 
-
-
+**Tony**
+<br>
+Tony works at CREATE as a web developer and has helped us launch and set up the backend of the website on GitHub so that we could focus on the reasearch and testing for the content of the website.
 

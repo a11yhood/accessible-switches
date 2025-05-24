@@ -51,7 +51,7 @@ I am a junior majoring in Bioengineering with a minor in Data Science at the Uni
 <br>
 I’m a junior studying Industrial and Systems Engineering with a minor in Informatics at UW. This is my first year in HuskyADAPT and I’ve been working on researching and building accessible switches.
 
-**Tony**
+**Tony Fast**
 <br>
 Tony works at CREATE as a web developer and has helped us launch and set up the backend of the website on GitHub so that we could focus on the reasearch and testing for the content of the website.
 

@@ -46,3 +46,9 @@ Our team successfully built a working pressure plate switch using this method. T
 ![Pressure plate switch made out of cardboard, alluminum foil, and tape. The picture is taken from the side to see that there is no connection between the plates. In the background there is a small circuit with an LED that is OFF.](https://github.com/user-attachments/assets/44852e6c-4535-4e4c-9e88-79dd4665cf60)
 
 [![Pressure Plate Demo](https://youtu.be/pPPygJrqFEM)](https://youtu.be/pPPygJrqFEM)
+
+<br>
+
+This is an alternative example of how using different materials like an adaptive switch looks like when connecting to a preasure plate switch.
+
+[![Pressure Plate Demo on Toy](https://youtube.com/shorts/aUV_v7fguIU?feature=share)](https://youtube.com/shorts/aUV_v7fguIU?feature=share)
